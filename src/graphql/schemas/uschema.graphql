@@ -1,0 +1,8 @@
+type User {
+    tipo: TypeUser
+}
+
+enum TypeUser {
+    BASIC
+    PREMIUM
+}
